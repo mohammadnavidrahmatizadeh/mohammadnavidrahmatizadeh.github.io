@@ -11,7 +11,6 @@
       <br>
       <strong>Python</strong>
     </td>
-
     <td align="center" width="120">
       <a href="https://www.w3.org/SQL/">
         <img src="https://az-icons.com/images/sql-database/icon.svg" width="55" height="55" alt="SQL">
@@ -19,7 +18,6 @@
       <br>
       <strong>SQL</strong>
     </td>
-
     <td align="center" width="120">
       <a href="https://www.r-project.org/">
         <img src="https://cdn.simpleicons.org/r/276DC3" width="55" height="55" alt="R">
@@ -29,3 +27,4 @@
     </td>
   </tr>
 </table>
+
