@@ -143,7 +143,7 @@
 <div class="project-card">
     <div class="project-image">
         <img
-            src="assets/projects/fruit-classification.jpg"
+            src="assets/Projects/Apple.jpg"
             alt="Fruit Classification">
     </div>
   
