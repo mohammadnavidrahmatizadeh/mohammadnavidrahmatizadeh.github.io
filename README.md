@@ -1,4 +1,15 @@
-# mohammadnavidrahmatizadeh.github.io
+<h1 style="
+    color: #1565C0;
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+">
+    Mohammad Navid Rahmati Zadeh
+</h1>
+
 
 <h2 align="center">MySkills</h2>
 
