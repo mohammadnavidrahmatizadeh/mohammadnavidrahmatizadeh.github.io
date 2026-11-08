@@ -1,6 +1,5 @@
 <div align="center">
-  <img
-    src="./assets/profile.jpg"
+  <img src="https://avatars.githubusercontent.com/u/190002625?v=4"
     alt="Profile Picture"
     width="160"
     height="160"
