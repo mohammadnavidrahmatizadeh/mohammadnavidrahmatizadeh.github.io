@@ -149,7 +149,7 @@
             alt="Fruit Classification">
     </div>
 
-    <div class="project-info">
+  <div class="project-info">
 
         <h3>Fruit Classification</h3>
 
