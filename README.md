@@ -7,8 +7,8 @@
     <img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/">
-    <img width="60" height="60" alt="copyImage"src="https://github.com/user-attachments/assets/04c39d8b-75de-4f67-828d-09a577a55ea0" />
+  <a href="https://www.w3.org/SQL/">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="60" height="60" alt="SQL">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.r-project.org/">
@@ -19,7 +19,7 @@
 <p align="center">
   <strong>Python</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>MATLAB</strong>
+  <strong>SQL</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <strong>R</strong>
 </p>
