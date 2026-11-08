@@ -157,7 +157,7 @@
    <tr>
   <td align="center">
                 <img
-                    src="assets/projects/fruit-classification.jpg"
+                    src="assets/Projects/Apple.jpg"
                     width="100"
                     alt="Fruit Classification">
   </td>
