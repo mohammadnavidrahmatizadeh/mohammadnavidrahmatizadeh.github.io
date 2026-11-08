@@ -8,8 +8,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/">
-    <img width="60" height=60" alt="copyImage" src="https://github.com/user-attachments/assets/04c39d8b-75de-4f67-828d-09a577a55ea0" />
- width="60" height="60" alt="MATLAB">
+    <img width="60" height="60" alt="copyImage"src="https://github.com/user-attachments/assets/04c39d8b-75de-4f67-828d-09a577a55ea0" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.r-project.org/">
