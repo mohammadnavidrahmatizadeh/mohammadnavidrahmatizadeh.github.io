@@ -184,10 +184,7 @@
           View Project
         </a>
       </div>
-
     </div>
-
   </div>
-
 </div>
 
