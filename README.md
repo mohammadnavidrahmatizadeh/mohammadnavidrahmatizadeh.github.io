@@ -137,3 +137,58 @@
   </tr>
 </table>
 </div>
+
+<!-- My Projects Section -->
+
+<h2 align="center">My Projects</h2>
+
+<table align="center" width="100%">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Project Name</th>
+            <th>Description</th>
+            <th>Technologies</th>
+            <th>Repository</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <!-- Project 1 -->
+        <tr>
+  <td align="center">
+                <img
+                    src="assets/projects/fruit-classification.jpg"
+                    width="100"
+                    alt="Fruit Classification">
+  </td>
+
+   <td align="center">
+                <strong>Fruit Classification</strong>
+   </td>
+
+   <td>
+                A Deep Learning project for classifying
+                fruits into Healthy and Rotten categories
+                using Transfer Learning.
+   </td>
+
+  <td align="center">
+                Python<br>
+                PyTorch<br>
+                ResNet18<br>
+                Streamlit
+  </td>
+
+   <td align="center">
+<a href="YOUR_GITHUB_REPOSITORY_LINK"
+                   target="_blank">
+                    View Repository
+                </a>
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+
+
