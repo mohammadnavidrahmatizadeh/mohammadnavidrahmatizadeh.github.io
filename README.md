@@ -10,6 +10,21 @@
     Mohammad Navid Rahmati Zadeh
 </h1>
 
+<h2 style="
+    color: #263238;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 0.5px;
+    border-bottom: 2px solid #1565C0;
+    padding-bottom: 12px;
+">
+    Data Analyst | Machine Learning Enthusiast
+</h2>
+
+
+
 
 <h2 align="center">MySkills</h2>
 
