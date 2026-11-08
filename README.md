@@ -76,3 +76,18 @@
   Focused on transforming raw data into structured,
   reliable, and meaningful insights.
 </p>
+
+<h2 align="center">Education</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <h3>B.Sc. in Computer Engineering</h3>
+      <strong>Software Engineering</strong>
+      <br><br>
+      🎓 Bachelor's Degree
+    </td>
+  </tr>
+</table>
+
+
