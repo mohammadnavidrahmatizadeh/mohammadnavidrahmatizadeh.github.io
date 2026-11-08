@@ -138,8 +138,6 @@
 </table>
 </div>
 
-<!-- Projects Section -->
-
 <h2 align="center">My Projects</h2>
 
 <div class="project-card">
@@ -148,17 +146,15 @@
             src="assets/projects/fruit-classification.jpg"
             alt="Fruit Classification">
     </div>
-    <div class="project-info">
-
-        <h3>Fruit Classification</h3>
-
+  
+<div class="project-info">
+    <h3>Fruit Classification</h3>
         <p>
             A Deep Learning project designed to classify
             fruits into two categories: Healthy and Rotten.
             The project uses Transfer Learning with
             the ResNet18 architecture.
         </p>
-        
         <div class="project-tags">
             <span>Python</span>
             <span>PyTorch</span>
@@ -167,7 +163,7 @@
             <span>Streamlit</span>
         </div>
         
-        <div class="project-details">
+  <div class="project-details">
             <p><strong>Task:</strong> Binary Image Classification</p>
             <p><strong>Model:</strong> ResNet18</p>
             <p><strong>Input Size:</strong> 224 × 224</p>
