@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assest/style.scss">
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/190002625?v=4"
     alt="Profile Picture"
@@ -139,58 +137,3 @@
   </tr>
 </table>
 </div>
-
-<!-- Projects Section -->
-<h2 align="center">My Projects</h2>
-
-<div class="project-card">
-
-   <div class="project-image">
-        <img
-            src="assets/projects/fruit-classification.jpg"
-            alt="Fruit Classification">
-    </div>
-
-  <div class="project-info">
-        <h3>Fruit Classification</h3>
-        <p>
-            A Deep Learning project designed to classify
-            fruits into two categories: Healthy and Rotten.
-            The project uses Transfer Learning with
-            the ResNet18 architecture.
-        </p>
-   <div class="project-tags">
-            <span>Python</span>
-            <span>PyTorch</span>
-            <span>ResNet18</span>
-            <span>Deep Learning</span>
-            <span>Streamlit</span>
-        </div>
-
-   <div class="project-details">
-            <p><strong>Task:</strong> Binary Image Classification</p>
-            <p><strong>Model:</strong> ResNet18</p>
-            <p><strong>Input Size:</strong> 224 × 224</p>
-        </div>
-
-   <a href="YOUR_GITHUB_REPOSITORY_LINK"
-            target="_blank"
-            class="project-button">
-            View Source Code →
-        </a>
-
- </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
