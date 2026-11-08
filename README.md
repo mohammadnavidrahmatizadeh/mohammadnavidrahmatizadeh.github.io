@@ -111,7 +111,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <a href="mailto:YOUR_EMAIL@gmail.com">
+      <a href="mailto:mohammadnavidrahmatizadeh@gmail.com">
         <img
           src="https://cdn.simpleicons.org/gmail/EA4335"
           width="50"
@@ -122,8 +122,8 @@
       </a>
     </td>
     <td align="center" width="150">
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"
-         target="_blank">
+      <a href="https://www.linkedin.com/in/mohammad-navid-rahmati-zadeh-623390273"
+        target="_blank">
         <img
           src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/linkedin-icon.png"
           width="50"
