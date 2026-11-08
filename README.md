@@ -138,4 +138,64 @@
 </table>
 </div>
 
+<!-- Projects Section -->
+
+<h2 align="center">My Projects</h2>
+
+<div align="center">
+
+  <div style="
+    max-width: 350px;
+    border: 1px solid #dddddd;
+    border-radius: 12px;
+    overflow: hidden;
+    margin: 20px auto;
+    text-align: left;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  ">
+
+    <!-- Project Image -->
+    <img
+      src="assets/projects/fruit-classification.jpg"
+      alt="Fruit Classification"
+      width="100%"
+      style="display: block;"
+    >
+
+    <!-- Project Information -->
+    <div style="padding: 18px;">
+
+      <h3>🍎 Fruit Classification</h3>
+
+      <p>
+        A Deep Learning project for classifying
+        healthy and rotten fruits using
+        Transfer Learning with ResNet18.
+      </p>
+
+      <p>
+        <strong>Technologies:</strong><br>
+        Python | PyTorch | ResNet18
+      </p>
+
+      <div align="center">
+        <a href="projects/fruit-classification.html"
+           style="
+             display: inline-block;
+             background-color: #2166b1;
+             color: white;
+             padding: 10px 22px;
+             border-radius: 6px;
+             text-decoration: none;
+             font-weight: bold;
+           ">
+          View Project
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
 
