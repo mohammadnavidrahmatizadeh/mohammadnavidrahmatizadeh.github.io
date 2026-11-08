@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="assest/style.scss">
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/190002625?v=4"
