@@ -152,7 +152,7 @@
 
  <div class="project-info">
 
-        <h3>🍎 Fruit Classification</h3>
+   <h3>🍎 Fruit Classification</h3>
 
         <p>
             A Deep Learning project designed to classify
