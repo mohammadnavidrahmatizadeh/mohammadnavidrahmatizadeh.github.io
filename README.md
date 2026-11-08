@@ -105,3 +105,33 @@
 </table>
 
 
+<h2 align="center">Contact Me</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="mailto:YOUR_EMAIL@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/EA4335"
+             width="50"
+             height="50"
+             alt="Gmail">
+        <br>
+        <strong>Gmail</strong>
+      </a>
+    </td>
+
+    <td align="center" width="150">
+      <a href="https://www.linkedin.com/in/mohammad-navid-rahmati-zadeh-623390273"
+         target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+             width="50"
+             height="50"
+             alt="LinkedIn">
+        <br>
+        <strong>LinkedIn</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
