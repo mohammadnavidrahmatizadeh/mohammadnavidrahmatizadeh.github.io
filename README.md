@@ -122,10 +122,10 @@
     <td align="center" width="150">
 <a href="https://www.linkedin.com/in/mohammad-navid-rahmati-zadeh-623390273"
          target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-             width="50"
-             height="50"
-             alt="LinkedIn">
+<img src="https://github.com/user-attachments/assets/b368beeb-a543-4b45-81ad-97f34ca6cef1"
+ width="50"
+height="50"
+alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
       </a>
