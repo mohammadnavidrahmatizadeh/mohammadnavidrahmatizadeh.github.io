@@ -104,9 +104,9 @@
   </tr>
 </table>
 
-<!-- Contact Me Section -->
-
 <h2 align="center">Contact Me</h2>
+
+<div align="center">
 
 <table align="center">
   <tr>
@@ -136,5 +136,6 @@
 
   </tr>
 </table>
+</div>
 
 
