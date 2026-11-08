@@ -23,6 +23,22 @@
     Data Analyst
 </h2>
 
+<h2 align="center">About Me</h2>
+
+<p align="center">
+  I am passionate about <b>Data Science</b>,
+  <b>Data Analysis</b>, and <b>Machine Learning</b>,
+  with a strong interest in discovering meaningful insights
+  from data and solving real-world problems.
+  <br><br>
+  I work with <b>Python</b>, <b>SQL</b>, and <b>R</b>
+  for data collection, cleaning, preprocessing,
+  exploration, and analysis.
+  <br><br>
+  I continuously strive to expand my technical knowledge,
+  improve my analytical thinking, and build practical projects
+  that transform data into valuable insights.
+</p>
 
 <h2 align="center">MySkills</h2>
 
