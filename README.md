@@ -169,7 +169,7 @@
             <span>Streamlit</span>
         </div>
 
-   <div class="project-details">
+ <div class="project-details">
 
             <p><strong>Task:</strong> Binary Image Classification</p>
 
@@ -181,14 +181,13 @@
 
         </div>
 
-        <a href="YOUR_GITHUB_REPOSITORY_LINK"
+   <a href="YOUR_GITHUB_REPOSITORY_LINK"
            target="_blank"
            class="project-button">
             View Source Code →
         </a>
 
  </div>
-
 </div>
 
 
