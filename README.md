@@ -104,32 +104,36 @@
   </tr>
 </table>
 
+<!-- Contact Me Section -->
+
 <h2 align="center">Contact Me</h2>
 
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <a href="mailto:mohammadnavidrahmatizadeh@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335"
-             width="50"
-             height="50"
-             alt="Gmail">
+      <a href="mailto:YOUR_EMAIL@gmail.com">
+        <img
+          src="https://cdn.simpleicons.org/gmail/EA4335"
+          width="50"
+          height="50"
+          alt="Gmail">
         <br>
         <strong>Gmail</strong>
       </a>
     </td>
-
     <td align="center" width="150">
-<a href="https://www.linkedin.com/in/mohammad-navid-rahmati-zadeh-623390273"
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/"
          target="_blank">
-<img src="https://github.com/user-attachments/assets/b368beeb-a543-4b45-81ad-97f34ca6cef1"
- width="50"
-height="50"
-alt="LinkedIn">
+        <img
+          src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/linkedin-icon.png"
+          width="50"
+          height="50"
+          alt="LinkedIn">
         <br>
         <strong>LinkedIn</strong>
       </a>
     </td>
+
   </tr>
 </table>
 
