@@ -171,7 +171,7 @@
         Python | PyTorch | ResNet18
       </p>
       <div align="center">
-        <a href="projects/fruit-classification.html"
+        <a href="Projects/fruit-classification.html"
            style="
              display: inline-block;
              background-color: #2166b1;
