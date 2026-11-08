@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/style.css">
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/190002625?v=4"
     alt="Profile Picture"
