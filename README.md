@@ -169,8 +169,7 @@
             <p><strong>Input Size:</strong> 224 × 224</p>
         </div>
 
-        <a
-            href="YOUR_GITHUB_REPOSITORY_LINK"
+  <a href="YOUR_GITHUB_REPOSITORY_LINK"
             target="_blank"
             class="project-button">
             View Source Code →
@@ -179,8 +178,6 @@
     </div>
 
 </div>
-
-
 
 
 
