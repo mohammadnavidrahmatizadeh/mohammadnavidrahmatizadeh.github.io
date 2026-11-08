@@ -20,10 +20,8 @@
     border-bottom: 2px solid #1565C0;
     padding-bottom: 12px;
 ">
-    Data Analyst | Machine Learning Enthusiast
+    Data Analyst
 </h2>
-
-
 
 
 <h2 align="center">MySkills</h2>
@@ -53,4 +51,14 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  Skilled in <b>data collection</b>, <b>data cleaning</b>,
+  <b>data preprocessing</b>, and <b>data analysis</b>
+  using Python, SQL, and R.
+  <br>
+  Focused on transforming raw data into structured,
+  reliable, and meaningful insights.
+</p>
+
 
