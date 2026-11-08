@@ -1,3 +1,18 @@
+<div align="center">
+  <img
+    src="./assets/profile.jpg"
+    alt="Profile Picture"
+    width="160"
+    height="160"
+    style="
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #1565C0;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    "
+  >
+</div>
+
 <h1 style="
     color: #1565C0;
     font-family: Arial, sans-serif;
