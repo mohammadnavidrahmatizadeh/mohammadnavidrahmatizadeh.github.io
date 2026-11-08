@@ -152,9 +152,8 @@
             <th>Repository</th>
         </tr>
     </thead>
-
     <tbody>
-        <!-- Project 1 -->
+      
         <tr>
   <td align="center">
                 <img
