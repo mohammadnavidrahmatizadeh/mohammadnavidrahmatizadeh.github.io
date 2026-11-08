@@ -138,53 +138,128 @@
 </table>
 </div>
 
-<!-- Projects Section -->
 
 <h2 align="center">My Projects</h2>
 
-<div align="center">
+<div class="project-card">
+    <!-- Project Image -->
+    <div class="project-image">
+        <img src="assets/projects/fruit-classification.jpg"
+             alt="Fruit Classification">
+    </div>
+    <div class="project-info">
+      
+        <h3>🍎 Fruit Classification</h3>
+        <p>
+            A Deep Learning project designed to classify
+            fruits into two categories: Healthy and Rotten.
+            The project uses Transfer Learning with the
+            ResNet18 architecture.
+        </p>
+        <div class="project-tags">
+            <span>Python</span>
+            <span>PyTorch</span>
+            <span>ResNet18</span>
+            <span>Deep Learning</span>
+            <span>Streamlit</span>
+        </div>
+        <div class="project-details">
 
-  <div style="
-    max-width: 350px;
-    border: 1px solid #dddddd;
+            <p><strong>Task:</strong> Binary Image Classification</p>
+
+            <p><strong>Model:</strong> ResNet18</p>
+
+            <p><strong>Input Size:</strong> 224 × 224</p>
+
+            <p><strong>Application:</strong> Fruit Quality Detection</p>
+
+        </div>
+        <a href="YOUR_GITHUB_REPOSITORY_LINK"
+           target="_blank"
+           class="project-button">
+            View Source Code →
+        </a>
+        
+    </div>
+
+</div>
+
+
+<style>
+
+.project-card {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 850px;
+    margin: 30px auto;
+    background: white;
+    border: 1px solid #e5e5e5;
     border-radius: 12px;
     overflow: hidden;
-    margin: 20px auto;
-    text-align: left;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-  ">
-    <img
-      src="assets/Projects/Apple.jpg"
-      alt="Fruit Classification"
-      width="100%"
-      style="display: block;"
-    >
-    <div style="padding: 18px;">
-      <h3>🍎 Fruit Classification</h3>
-      <p>
-        A Deep Learning project for classifying
-        healthy and rotten fruits using
-        Transfer Learning with ResNet18.
-      </p>
-      <p>
-        <strong>Technologies:</strong><br>
-        Python | PyTorch | ResNet18
-      </p>
-      <div align="center">
-        <a href="mohammadnavidrahmatizadeh.github.io/Projects/fruit-classification.html"
-           style="
-             display: inline-block;
-             background-color: #2166b1;
-             color: white;
-             padding: 10px 22px;
-             border-radius: 6px;
-             text-decoration: none;
-             font-weight: bold;
-           ">
-          View Project
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.project-image {
+    flex: 1 1 280px;
+    min-height: 250px;
+}
+
+.project-image img {
+    width: 100%;
+    height: 100%;
+    min-height: 250px;
+    object-fit: cover;
+}
+
+.project-info {
+    flex: 2 1 350px;
+    padding: 22px;
+}
+
+.project-info h3 {
+    color: #2166b1;
+    margin-top: 0;
+}
+
+.project-info p {
+    line-height: 1.7;
+}
+
+.project-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0;
+}
+
+.project-tags span {
+    background: #e8f1fc;
+    color: #2166b1;
+    padding: 5px 11px;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+.project-details {
+    font-size: 14px;
+}
+
+.project-button {
+    display: inline-block;
+    background: #2166b1;
+    color: white !important;
+    padding: 10px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.project-button:hover {
+    background: #164b85;
+}
+
+</style>
+
+
+
 
