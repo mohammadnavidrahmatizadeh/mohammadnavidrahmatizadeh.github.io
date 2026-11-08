@@ -154,7 +154,7 @@
     </thead>
     <tbody>
       
-        <tr>
+   <tr>
   <td align="center">
                 <img
                     src="assets/projects/fruit-classification.jpg"
@@ -186,7 +186,6 @@
                 </a>
             </td>
         </tr>
-
     </tbody>
 </table>
 
