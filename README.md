@@ -2,37 +2,30 @@
 
 <h2 align="center">MySkills</h2>
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/3776AB"
-         width="60"
-         height="60"
-         alt="Python">
-  </a>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="Python">
+      </a>
+      <br>
+      <strong>Python</strong>
+    </td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+    <td align="center" width="120">
+      <a href="https://www.w3.org/SQL/">
+        <img src="https://az-icons.com/images/sql-database/icon.svg" width="55" height="55" alt="SQL">
+      </a>
+      <br>
+      <strong>SQL</strong>
+    </td>
 
-  <a href="https://www.w3.org/SQL/" target="_blank">
-    <img src="https://az-icons.com/images/sql-database/icon.svg"
-         width="60"
-         height="60"
-         alt="SQL">
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/r/276DC3"
-         width="60"
-         height="60"
-         alt="R">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Python</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>SQL</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>R</strong>
-</p>
+    <td align="center" width="120">
+      <a href="https://www.r-project.org/">
+        <img src="https://cdn.simpleicons.org/r/276DC3" width="55" height="55" alt="R">
+      </a>
+      <br>
+      <strong>R</strong>
+    </td>
+  </tr>
+</table>
