@@ -166,14 +166,14 @@
             <span>Deep Learning</span>
             <span>Streamlit</span>
         </div>
-
+        
  <div class="project-details">
 
-            <p><strong>Task:</strong> Binary Image Classification</p>
+<p><strong>Task:</strong>  Binary Image Classification</p>
 
-            <p><strong>Model:</strong> ResNet18</p>
+  <p><strong>Model:</strong> ResNet18</p>
 
-            <p><strong>Input Size:</strong> 224 × 224</p>
+ <p><strong>Input Size:</strong> 224 × 224</p>
 
             <p><strong>Application:</strong> Fruit Quality Detection</p>
 
