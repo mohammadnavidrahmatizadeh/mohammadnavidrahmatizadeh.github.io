@@ -153,15 +153,13 @@
  <div class="project-info">
 
    <h3>🍎 Fruit Classification</h3>
-
-        <p>
+   <p>
             A Deep Learning project designed to classify
             fruits into two categories: Healthy and Rotten.
             The project uses Transfer Learning with the
             ResNet18 architecture.
         </p>
-
-        <div class="project-tags">
+    <div class="project-tags">
             <span>Python</span>
             <span>PyTorch</span>
             <span>ResNet18</span>
@@ -189,7 +187,6 @@
 
  </div>
 </div>
-
 
 <style>
 
