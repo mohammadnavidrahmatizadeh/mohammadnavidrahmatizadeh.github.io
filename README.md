@@ -154,7 +154,7 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   ">
     <img
-      src="assets/projects/Apple.jpg"
+      src="assets/Projects/Apple.jpg"
       alt="Fruit Classification"
       width="100%"
       style="display: block;"
