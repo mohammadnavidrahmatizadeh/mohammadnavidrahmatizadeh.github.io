@@ -1,3 +1,6 @@
+
+<!------------------------------------------------------------------------------>
+
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/190002625?v=4"
     alt="Profile Picture"
@@ -12,6 +15,8 @@
   >
 </div>
 
+<!------------------------------------------------------------------------------>
+
 <h1 style="
     color: #1565C0;
     font-family: Arial, sans-serif;
@@ -23,6 +28,8 @@
 ">
     Mohammad Navid Rahmati Zadeh
 </h1>
+
+<!------------------------------------------------------------------------------>
 
 <h2 style="
     color: #263238;
@@ -36,6 +43,8 @@
 ">
     Data Analyst
 </h2>
+
+<!------------------------------------------------------------------------------>
 
 <h2 align="center">About Me</h2>
 
@@ -53,6 +62,8 @@
   improve my analytical thinking, and build practical projects
   that transform data into valuable insights.
 </p>
+
+<!------------------------------------------------------------------------------>
 
 <h2 align="center">Technical Skills & Tools </h2>
 
@@ -91,6 +102,8 @@
   reliable, and meaningful insights.
 </p>
 
+<!------------------------------------------------------------------------------>
+
 <h2 align="center">Education</h2>
 
 <table align="center">
@@ -103,6 +116,8 @@
     </td>
   </tr>
 </table>
+
+<!------------------------------------------------------------------------------>
 
 <h2 align="center">Contact Me</h2>
 
@@ -138,7 +153,7 @@
 </table>
 </div>
 
-<!-- My Projects Section -->
+<!------------------------------------------------------------------------------>
 
 <h2 align="center">My Projects</h2>
 
@@ -157,7 +172,7 @@
    <tr>
   <td align="center">
                 <img
-                    src="assets/Projects/Apple.jpg"
+                    src="assets/images/apple.jpg"
                     width="100"
                     alt="Fruit Classification">
   </td>
