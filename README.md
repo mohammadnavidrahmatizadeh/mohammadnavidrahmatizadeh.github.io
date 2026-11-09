@@ -194,14 +194,12 @@
                 Streamlit
   </td>
 
-   <td align="center">
-<a href="YOUR_GITHUB_REPOSITORY_LINK"
-                   target="_blank">
+  <td align="center">
+  <a href="#"
+                    target="_blank">
                     View Repository
                 </a>
-            </td>
+            </td>       
         </tr>
     </tbody>
 </table>
-
-
