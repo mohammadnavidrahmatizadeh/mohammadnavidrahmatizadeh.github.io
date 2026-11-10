@@ -201,5 +201,34 @@
                 </a>
             </td>       
         </tr>
+  <tr>
+  <td align="center">
+                <img
+                    src="assets/images/apple.jpg"
+                    width="100"
+                    alt="Fruit Classification">
+  </td>
+
+   <td align="center">
+                <strong>University Acceptance Prediction Model </strong>
+   </td>
+
+   <td>
+                Building a University Acceptance Prediction Model Using Linear Regression and
+                Classification Methods in Machine Learning
+   </td>
+
+  <td align="center">
+                R<br>
+                Rstudio<br>
+  </td>
+
+  <td align="center">
+  <a href="#"
+                    target="_blank">
+                    View Repository
+                </a>
+            </td>       
+        </tr>
     </tbody>
 </table>
