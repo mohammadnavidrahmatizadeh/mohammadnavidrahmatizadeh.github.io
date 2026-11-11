@@ -204,7 +204,7 @@
   <tr>
   <td align="center">
                 <img
-                    src="assets/images/apple.jpg"
+                    src="assets/images/university.jpg"
                     width="100"
                     alt="Fruit Classification">
   </td>
